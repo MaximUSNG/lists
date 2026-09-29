@@ -18,6 +18,7 @@ antigravity.google
 api-sg-central.trae.ai
 api.cdnlibs.org
 api.fitbit.com
+api.groq.com
 api.home-connect.com
 api.imgur.com
 api.jetbrains.ai
@@ -80,11 +81,13 @@ clashofclans.inbox.supercell.com
 claude.ai
 claude.com
 claudemcpclient.com
+claudeusercontent.com
 clickup.com
 cms-images.mmst.eu
 codeium.com
 community.sap.com
 consent.trustarc.com
+console.groq.com
 console.neon.tech
 controlplane.tailscale.com
 copilot.microsoft.com
@@ -166,6 +169,7 @@ gamestop.com
 geller-pa.googleapis.com
 gemini.google
 gemini.google.com
+geminiweb-pa.clients6.google.com
 generativeai.google
 generativelanguage.googleapis.com
 genspark.ai
@@ -274,6 +278,7 @@ profile.broadcom.com
 promods.net
 prowlarr.servarr.com
 pump.fun
+qoder.com
 qualtrics.com
 qwant.com
 remove.bg
